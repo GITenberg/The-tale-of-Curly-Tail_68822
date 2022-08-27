@@ -5,6 +5,9 @@ contributor:
     agent_name: Scannell, Mae H.
     gutenberg_agent_id: '54961'
     url: http://www.gutenberg.org/2009/agents/54961
+covers:
+- cover_type: archival
+  image_path: 68822-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Laura Rountree
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '3469'
     url: http://www.gutenberg.org/2009/agents/3469
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68822#The-tale-of-Curly-Tail
 gutenberg_issued: '2022-08-23'
 identifiers:
   gutenberg: '68822'
